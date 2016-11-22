@@ -1,6 +1,6 @@
 
 # 图片验证码
-### 步骤如下
+### 使用方法如下
 
 1. post方式访问http://xxx/restapi/v1/captchas，post可以无内容，可以传当前时间戳
 默认都应该正常返回信息，例如： {"errno":0,"errmsg": "success","data":"9761c7bc4f330b439ac2c67301778839"}
